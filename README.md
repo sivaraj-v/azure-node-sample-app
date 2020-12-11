@@ -16,6 +16,7 @@ For Azure Origin
 For Github Origin
 > git push origin master
 > https://mydecazureserviceapp.scm.azurewebsites.net/
+> git push azure master && git push origin master
 ```
 
 Ref: 
