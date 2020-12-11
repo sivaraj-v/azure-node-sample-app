@@ -9,3 +9,4 @@
 > az webapp deployment source config-local-git --name mydecazureserviceapp --resource-group myResourceGroup
 > https://mydecazureserviceapp@mydecazureserviceapp.scm.azurewebsites.net/mydecazureserviceapp.git
 > git remote add azure https://mydecazureserviceapp@mydecazureserviceapp.scm.azurewebsites.net/mydecazureserviceapp.git
+> git push azure main
